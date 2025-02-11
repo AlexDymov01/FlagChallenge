@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "47EF7845-12E4-40BB-B9FE-12CEE4A65C1E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12BBF062-883D-4DE4-834D-C14FC59CE4FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flag Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "updateAnswerOptions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "066E1289-F9E9-41ED-A8F2-2724AC18C047"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flag Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "checkAnswer(selected:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "066E1289-F9E9-41ED-A8F2-2724AC18C047 - 385a93b6a1ef02e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flag_Challenge.GameViewModel.answerTapped(isCorrect: Swift.Bool) -&gt; ()"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dymovoleksandr/Desktop/Work/Flag%20Challenge/Flag%20Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+               <Location
+                  uuid = "066E1289-F9E9-41ED-A8F2-2724AC18C047 - 53824c9774abf5d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in Flag_Challenge.GameViewModel.answerTapped(isCorrect: Swift.Bool) -&gt; ()"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dymovoleksandr/Desktop/Work/Flag%20Challenge/Flag%20Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98EB38E0-CBF1-429D-90D6-19C8C9BE864C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flag Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "GameViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "302C956C-1B4F-42B4-8AEF-D1194DD3ED66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flag Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "GameViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "302C956C-1B4F-42B4-8AEF-D1194DD3ED66 - d9714d0c279d06eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Flag_Challenge.GameViewModel.flagChallengeVM : Flag_Challenge.FlagChallengeViewModel"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dymovoleksandr/Desktop/Work/Flag%20Challenge/Flag%20Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "302C956C-1B4F-42B4-8AEF-D1194DD3ED66 - 97228fedc38ebd81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flag_Challenge.GameViewModel.flagChallengeVM.getter : Flag_Challenge.FlagChallengeViewModel"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dymovoleksandr/Desktop/Work/Flag%20Challenge/Flag%20Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "302C956C-1B4F-42B4-8AEF-D1194DD3ED66 - d563f6d389f8a21e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flag_Challenge.GameViewModel.flagChallengeVM.setter : Flag_Challenge.FlagChallengeViewModel"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dymovoleksandr/Desktop/Work/Flag%20Challenge/Flag%20Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "302C956C-1B4F-42B4-8AEF-D1194DD3ED66 - 38b67b2bc2ce3729"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flag_Challenge.GameViewModel.flagChallengeVM.modify : Flag_Challenge.FlagChallengeViewModel"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dymovoleksandr/Desktop/Work/Flag%20Challenge/Flag%20Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "302C956C-1B4F-42B4-8AEF-D1194DD3ED66 - b741bae46c882d03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flag_Challenge.GameViewModel.flagChallengeVM.modify : Flag_Challenge.FlagChallengeViewModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "302C956C-1B4F-42B4-8AEF-D1194DD3ED66 - 80c477b4861b637a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flag_Challenge.GameViewModel.$flagChallengeVM.getter : Combine.Published&lt;Flag_Challenge.FlagChallengeViewModel&gt;.Publisher"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dymovoleksandr/Desktop/Work/Flag%20Challenge/Flag%20Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "302C956C-1B4F-42B4-8AEF-D1194DD3ED66 - b321dd040ce444c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flag_Challenge.GameViewModel.$flagChallengeVM.setter : Combine.Published&lt;Flag_Challenge.FlagChallengeViewModel&gt;.Publisher"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dymovoleksandr/Desktop/Work/Flag%20Challenge/Flag%20Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "302C956C-1B4F-42B4-8AEF-D1194DD3ED66 - 1f59d5674782c9d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flag_Challenge.GameViewModel.$flagChallengeVM.modify : Combine.Published&lt;Flag_Challenge.FlagChallengeViewModel&gt;.Publisher"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dymovoleksandr/Desktop/Work/Flag%20Challenge/Flag%20Challenge/Screens/GameScreen/ViewModels/GameViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11">
+               </Location>
+               <Location
+                  uuid = "302C956C-1B4F-42B4-8AEF-D1194DD3ED66 - e61c85ab4c41e19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flag_Challenge.GameViewModel.$flagChallengeVM.modify : Combine.Published&lt;Flag_Challenge.FlagChallengeViewModel&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Flag Challenge.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
